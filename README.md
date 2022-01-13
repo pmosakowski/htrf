@@ -17,7 +17,7 @@ Invoke the script:
 
 ## Examples
 
-`
+```
 $ ./htrf.sh jojo 2019
 Getting total page count
 39 pages
@@ -38,4 +38,4 @@ Downloading and parsing pages:
 30  LOWBORELAND JOJO                                Retriever (Labrador)                 Bitch  BLACK                                   13 March 2019
 31  MESI AMARA JOJO                                 Rhodesian Ridgeback                  Bitch  WHEATEN                                 11 December 2019
 31  MISS JOJO POPS                                  Dachshund (Miniature Smooth Haired)  Bitch  CHOCOLATE and TAN                       31 May 2019
-`
+```
